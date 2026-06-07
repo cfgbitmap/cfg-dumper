@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.aps
+ipch/
+x64/
+Debug/
+Release/
+*.pdb
+*.ilk
+*.exp
+*.lib
